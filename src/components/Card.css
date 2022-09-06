@@ -1,0 +1,24 @@
+.container{
+    margin:2rem;
+    padding:1rem;
+    display: flex;
+    /* width: 438px; */
+    justify-content: space-around;
+}
+img{
+    border-radius: 0.5rem;
+    width: 36rem;
+    height: 20rem;
+}
+h1{
+    width: 36rem;
+}
+.para{
+    width: 36rem; 
+    line-height: 1.5rem;
+    /* line-height: 1.5;
+  font-weight: 600;
+  font-family: Inter;
+  font-size: 1rem;
+  line-height: 1.5rem; */
+}
